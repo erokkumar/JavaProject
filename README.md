@@ -35,5 +35,4 @@ Make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/student-management-spring-orm.git
-   cd student-management-spring-orm
+   git clone [https://github.com/erokkumar/JavaProject/tree/master]
